@@ -1,0 +1,1 @@
+main = print $ foldl lcm 2 [2..20]
